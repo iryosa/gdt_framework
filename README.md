@@ -6,4 +6,4 @@ Keeping a Geometric Digital Twin up to date is challenging due to changes in the
 
 Download the Excel files (empty template or example file) to apply the framework to your model.  
 
-For more details, see the paper: [Link will be here].
+For more details, reach out to us or see the paper: [Link will be here].
