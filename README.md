@@ -8,5 +8,6 @@ Download the Excel files to apply the framework to your model: [Empty template](
 
 The framework is implemented as the [Geometric Digital Twin Assessment Tool](https://gdttool-01.streamlit.app/)
 
-For more details, reach out to us or see the paper: [Link will be here].
+For more details, reach out to us or see: [Link will be here].
+
 ![](Graphical_abstract.jpg)
