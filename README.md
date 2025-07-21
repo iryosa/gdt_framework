@@ -6,5 +6,7 @@ Keeping a Geometric Digital Twin up to date is challenging due to changes in the
 
 Download the Excel files (empty template or example file) to apply the framework to your model.  
 
+The framework is implemented as the Geometric Digital Twin Assessment Tool, available at: https://gdttool-01.streamlit.app/#geometric-digital-twin-assessment-tool
+
 For more details, reach out to us or see the paper: [Link will be here].
 ![](Graphical_abstract.jpg)
